@@ -1,0 +1,6 @@
+/.venv/
+/.jupyter/
+/.ipynb_checkpoints/
+/data/
+__pycache__/
+*.keras
